@@ -6,3 +6,4 @@ Implemented a recommendation system for related blogs, summarization and paraphr
 Implemented a Speech to Text Recognizer for creating new blogs via audio.
 
 Tech Stack: React.js, Sanity, Firebase, and various npm packages.
+![1](https://user-images.githubusercontent.com/77957630/218591168-edfb19fe-6b2f-4f1f-bf0d-6c3cc3cbfa6c.png)
